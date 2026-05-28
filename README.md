@@ -289,35 +289,6 @@ npm run dev
 
 ---
 
-# 📸 Application Screenshots
-
-## 🔑 Login Page
-
-![Login](./screenshots/login.png)
-
----
-
-## 📝 Register Page
-
-![Register](./screenshots/register.png)
-
----
-
-## 📊 Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
----
-
-## 💳 Transactions
-
-![Transactions](./screenshots/transactions.png)
-
----
-
-## 📈 Expense Analytics
-
-![Charts](./screenshots/charts.png)
 
 ---
 
