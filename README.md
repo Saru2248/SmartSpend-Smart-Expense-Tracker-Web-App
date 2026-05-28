@@ -1,8 +1,6 @@
 # 💸 SmartSpend — Smart Expense Tracker Web Application
 
-<p align="center">
-  <img src="./screenshots/banner.png" alt="SmartSpend Banner" width="100%" />
-</p>
+
 
 <p align="center">
 
